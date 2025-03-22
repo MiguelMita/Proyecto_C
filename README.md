@@ -4,3 +4,9 @@ Este es un proyecto para convertir monedas. Se soporta la divisa de Quetzales, D
 
 ## Prerrequisitos
 Instalar copilador de C/C++
+
+## Pasos para su ejecución
+Crear un nuevo proyecto,Escribir el Codigo,Compilar el codigo y Ejecutar el programa 
+
+## Datos del autor 
+Miguel Mita Carnet_25004939
